@@ -8,7 +8,7 @@ This project illustrates the fabrication process of Depletion-Enhancement NMOS (
 
 The objective of this project is to draw a transistor fabrication process analogous to that of CMOS, showcasing the steps involved in creating both enhancement and depletion type NMOS transistors. The fabrication process is visually depicted in a GIF file, providing a step-by-step guide to the process.
 
-[https://github.com/grilio/Microsystems_and_Nanotechnology/blob/main/gif1.gif?raw=true]
+![ezgif com-resize](https://github.com/grilio/Microsystems_and_Nanotechnology/blob/main/gif1.gif?raw=true)
 
 ## Files and Resources
 
